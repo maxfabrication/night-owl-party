@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>🦉Night Owls</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="https://media.istockphoto.com/vectors/cute-fairy-tale-poster-with-space-owl-stars-and-design-elements-vector-id1290696126?k=20&m=1290696126&s=612x612&w=0&h=9qI78PcUnulne7qLlybrr4yJcUMUxRX8WKPAPBHYLI0=" alt="Night Owls Party picture"></td>
+      <td>  <h1> Night Owl</h1>
+        <p> welcome to Night Owls a place where you can talk to people.<em>Founder and CTO of <strong><a href="https://enteryourwebsitehere">enter name of website here</a></strong></em></p>
+        <p>I've created 🦉Night Owl because i like to stay up and talk to people.</p></td>
+    </tr>
+  </table>
+
+  <hr>
+  <h3>Other links</h3>
+  <ul>
+    <li>games </li>
+    <li>music</li>
+    <li>videos</li>
+    <li>posts</li>
+  </ul>
+  <h3>coding journey</h3>
+  <hr>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Work</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2020</td>
+        <td>started coding</td>
+      </tr>
+      <tr>
+        <td>2022</td>
+        <td>started night owls party projects</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3>Skills</h3>
+<table border="1">
+      <tr>
+        <td>IOS Development</td>
+        <td>⭐⭐⭐⭐⭐</td>
+      </tr>
+       <tr>
+          <td>Web Development</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Photography</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+    </table>
+
+
+  ////move ol to another folder
+  <br>
+  <a href="about us.html">About us</a>
+  <a href="contact me.html">Contact</a>
+  <h3>Night Owl Other Channles</h3>
+  <ol>
+    <li><a href="httpsadd YouTube channle">YouTube</a></li>
+    <li><a href="same">Facebook</a></li>
+    <li><a href="#">Instagram</a></li>
+    <li><a href="#">Tick Tock</a></li>
+  </ol>
+</body>
+
+</html>
